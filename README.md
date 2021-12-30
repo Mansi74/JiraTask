@@ -1,23 +1,24 @@
 # No Name Game
 ## Developement Teams
 ### Graphics
-__Name :__ Nour __Role :__ Initial Sketches __Expertise:__ Character Design, Photoshop, Illustrator\
-__Name :__ Ashraf __Role :__ Level Design __Expertise:__ Blender, Photoshop, Illustrator\
-__Name :__ Abdelrahman __Role :__ Enviroment Rendering __Expertise:__ Blender, Photoshop, Illustrator, Unity
 | Name             	| Role          	| Expertise   	|
 |------------------	|---------------	|--------------	|
 | Nour             	| Initial sketches| Character design | 
-| Ashraf          	| Product Owner 	| high         	| 
-| Mohamed Ezz      	| Stakeholder   	| low          	| 
+| Ashraf          	| Level Design	  | Blender         	| 
+| Abdelrahman     	| Enviroment Rendering  	| Unity          	| 
 ### Storyline
-__Name :__ Seif __Role :__ Script Writing __Expertise:__ Story Design, Writing Workshop\
-__Name :__ Mazen __Role :__ Main Plot __Expertise:__ Story Design, Writing Workshop\
-__Name :__ Nour __Role :__ Main Plot __Expertise:__ Story Design, Writing Workshop
+| Name             	| Role          	| Expertise   	|
+|------------------	|---------------	|--------------	|
+| Seif            	| Script Wiritig  | Story design | 
+| Mazen          	  | Main Plot	      | Writing workshop | 
+| Zaher     	        | Main plot  	    | Story design |
 ### Testing
-__Name :__ Shehab __Role :__ Bug Detection __Expertise:__ ISTQB certified\
-__Name :__ Mourad __Role :__ Limit Testing __Expertise:__ Java product testing\
-__Name :__ Sayed __Role :__ Feature Testing __Expertise:__ Tester\
-__Name :__ Wessam __Role :__ Performance Testing __Expertise:__ Tester
+| Name             	| Role          	| Expertise   	|
+|------------------	|---------------	|--------------	|
+| Shehab            	| Bug detection  | ISTQB Ceritifed | 
+| Mourad          	  | Limit testing	      | Java product testing | 
+| Sayed     	        | Feature testing  	    | Tester |
+| Wessam             	| Performance testing          	| Tester   	|
 
 ## Stakeholders
 | Name             	| Role          	| Availability 	| Influence 	| Engagement       	|
@@ -40,3 +41,10 @@ _Far Vision:_
 - Finish Levels Creation
 - Integrate Menus
 - Deliver Game Beta after 8 months
+
+## Product Backlog Items:
+PBIs are arranged according to their level of importance ; what needs to be done first.\
+Story points are according to the fibonnaci sequence
+
+## Story Points
+It is estimated that my team can achieve around a 100 story points each sprint
