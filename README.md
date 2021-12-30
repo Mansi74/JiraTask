@@ -48,7 +48,7 @@ PBIs are arranged according to their level of importance ; what needs to be done
 Story points are according to the fibonnaci sequence
 
 ## Story Points
-It is estimated that my team can achieve around a 100 story points each sprint
+It is estimated that my team can achieve 1.2 points per hour in a 40 hour week so that rounds around a 95 story points each sprint
 
 ## Workflow
 The workflow is organized that tasks that need to be done first are finished where they block the other tasks start as shown in the pictures
@@ -68,4 +68,9 @@ A new task can not be started unless all its prerequisets are done
 |Testing  | What are doing today?           | test enviromnent assets    | test enviromnent assets    |
 || Is there anything blocking you? |                            |                            |
 
+## Sprint Document
+Sprint 1 
+Goal: Finish environment physics and assets, finish character assets and create tutorial level
+In progress: storyline, environment and character graphics 
+Next sprint: start and settings menu, maps and UI
 
